@@ -1,0 +1,100 @@
+
+\documentclass[9pt,a4paper]{article}
+\usepackage[left=1cm,right=1cm,top=1.2cm,bottom=1.2cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\graphicspath{{./pics/}}
+\usepackage{parskip}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage[hidelinks]{hyperref}
+% \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{minted}
+\usepackage{amsmath}
+\usepackage{wrapfig}
+\usepackage{pgfplots}
+\usepackage{booktabs}
+\usepackage{amssymb}
+\usepackage{cancel}
+\usepackage{pdfpages}
+
+\usetikzlibrary{positioning}
+
+% Querformat und kompaktes Layout
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[RO]{\thepage}
+
+\setlist[itemize]{nosep,left=0.1cm}  %- kompakte und eingerueckte Listen
+\setlist[enumerate]{nosep,left=0.1cm} % aehnlich fuer nummerierte Listen, falls benoetigt
+
+% Abstaende fuer Sektionen nach VHDL-Vorlage [2]
+\titlespacing*{\section}{0pt}{0.3em}{0.2em}
+\titlespacing*{\subsection}{0pt}{0.2em}{0.1em}
+
+\setlength{\columnsep}{1cm} % - Abstand zwischen Spalten
+\setlength{\columnseprule}{0.4pt} % - Linie zwischen Spalten
+
+% Titelformatierung fuer Subsektionen
+\titleformat{\subsection}{\bfseries\small}{\thesubsection}{1em}{}
+
+% Farben fuer C++-Syntax-Highlighting
+\definecolor{cppkeyword}{rgb}{0.1,0.1,0.7} % Blau-Violett
+\definecolor{cpptype}{rgb}{0.4,0.1,0.6} % Violett
+\definecolor{cppconcept}{rgb}{0.0,0.5,0.3} % Gruen
+\definecolor{cppcomment}{rgb}{0.5,0.5,0.5} % Grau
+\definecolor{cppstring}{rgb}{0.7,0.4,0.1} % Orange
+\definecolor{cppbackground}{rgb}{0.98, 0.98, 0.98} % Grau
+\definecolor{cppframe}{rgb}{0.8,0.8,0.8} % Grau
+
+% Listing-Stil fuer C++
+\lstdefinestyle{cppstyle}{
+	language=C++, % Sprache C++
+	basicstyle=\ttfamily\scriptsize, % - Schriftart und Groesse
+	keywordstyle=\color{cppkeyword}\bfseries, % - Schluesselwoerter fett und farbig
+	commentstyle=\color{cppcomment}\itshape, % - Kommentare kursiv und farbig
+	stringstyle=\color{cppstring}, % - Strings farbig
+	backgroundcolor=\color{cppbackground}, % - Hintergrundfarbe
+	frame=lines, % - Rahmen
+	rulecolor=\color{cppframe}, % - Rahmenfarbe
+	breaklines=true, % - Zeilenumbrueche erlauben
+	tabsize=2, % - Tabulatorgroesse
+	columns=fullflexible, % - Spaltenmodus
+	% Weitere Schluesselwoerter und hervorgehobene Typen fuer C++
+	morekeywords={ % [4]
+			alignas, alignof, and, and_eq, asm, auto, bitand, bitor,
+			bool, break, case, catch, char, char16_t, char32_t, class,
+			compl, concept, const, constexpr, const_cast, continue,
+			decltype, default, delete, do, double, dynamic_cast, else,
+			enum, explicit, export, extern, false, float, for, friend,
+			goto, if, inline, int, long, mutable, namespace, new, noexcept,
+			not, not_eq, nullptr, operator, or, or_eq, private, protected,
+			public, register, reinterpret_cast, requires, return, short,
+			signed, sizeof, static, static_assert, static_cast, struct,
+			switch, template, this, thread_local, throw, true, try,
+			typedef, typeid, typename, union, unsigned, using, virtual,
+			void, volatile, wchar_t, while, xor, xor_eq, final, override
+		},
+	emph={ % - Hervorgehobene Typen/Konzepte
+			int, double, char, bool, void, std::string, std::vector,
+			std::list, std::map, std::set, std::iostream, std::fstream,
+			std::strstream, std::iomanip, std::endl, std::cout, std::cin, std::cerr,
+			std::exception, std::invalid_argument, std::runtime_error
+		},
+	emphstyle=\color{cpptype}, % - Stil fuer hervorgehobene Typen
+	emph={[2]std::begin, std::end, std::sort, std::for_each,
+			malloc, free, new, delete, connect, QObject, QWidget, QPainter,
+			typeid, dynamic_cast, static_cast, reinterpret_cast, const_cast}, % - Hervorgehobene Funktionen/Konzeptebene 2
+	emphstyle={[2]\color{cppconcept}\bfseries} % - Stil fuer Hervorgehobene Funktionen/Konzeptebene 2
+}
+
+\lstset{style=cppstyle}
+\newcommand{\sourcecite}[1]{{\small\textsuperscript{[#1]}}} % Fuegt die Zitate als hochgestellte Zahl in Klammern ein

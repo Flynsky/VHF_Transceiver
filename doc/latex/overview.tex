@@ -1,0 +1,136 @@
+\input{setup.tex}
+% install libaries with: sudo dnf install texlive-scheme-medium
+% compile with: pdflatex -shell-escape dsp_cheatsheet.tex
+
+\begin{document}
+\begin{center}{\vspace{-4cm}
+		\LARGE \textbf{VHF Tranceiver for CUBSAT Applications}}\\
+	\small Fynn Gewiese | \href{https://github.com/Flynsky}{github}\\
+	\rule{\linewidth}{0.3pt}
+\end{center}
+
+% \begin{multicols*}{2}
+\raggedcolumns{\small\tableofcontents}
+
+\section{Overview}
+
+\section{Requirements}
+
+Power Aestimate (Friis-Gleichung):
+\begin{equation}
+	P_E = S_i(r)\, A_w
+	= \frac{P_S \, G_{iS} \, G_{iE}}{D_F}
+\end{equation}
+Power Empfang: $P_E$\\
+Gain Isotroper Strahler:  $G_{iS}$\\
+Gain Isotroper Empfänger  $G_{iE}$\\
+Freiraumdämpfung:	$D_F = \left( 4\pi r / \lambda \right)^2$
+
+\begin{itemize}
+	\item Frquancy Band: 134 - 174 MHz (VHF)
+	\item Data Rate: ?
+	\item Tx Power: ?
+	\item Rx Sensitivity: ?
+\end{itemize}
+
+\section{Transceiver}
+There are not many transcievers chips avaliable,
+more modules. Chips would require design and measurement of the antenna matching circuit,
+but also could possibly compensate an antenna missmatch.
+\begin{itemize}
+	\item Si4464/63/61/60 (119–1050 MHz), very promising
+	\item SA818-U looks like trash but could work
+	\item CC1121 (technically supports 136.7-160 MHz, but requires TI support)
+\end{itemize}
+\subsection{SiX}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\linewidth]{./pics/si.png}
+	% \caption{Birds}
+\end{figure}
+
+\subsection{SA818-U}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\linewidth]{./pics/SA818.png}
+	% \caption{Birds}
+\end{figure}
+
+
+% \subsection{CC1101}
+% \begin{figure}[H]
+% 	\centering
+% 	\includegraphics[width=0.8\linewidth]{./pics/cc1101.png}
+% 	% \caption{Birds}
+% \end{figure}
+
+\section{Antenna}
+
+\subsection{Mechanical considerations}
+Length estimate:\\
+regarding the conductor as an open-ended single wire transmission line (resonant stub):
+\[
+	l_{\text{monopole}} = \frac{\lambda}{4} = \frac{c}{4f} = \frac{300}{4f\,[\text{MHz}]} = \frac{75}{f\,[\text{MHz}]}\,\text{m}
+\]
+Frequency of around 150 MHz -> length of around 0.5 m.
+
+Requirements:
+\begin{itemize}
+	\item Non ferro magnetic
+	\item around .5 m long
+\end{itemize}
+
+Spring based system:
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\linewidth]{spring.png}
+	% \caption{Birds}
+\end{figure}
+
+Roll based system:
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\linewidth]{fold.png}
+	\caption{\href{https://www.researchgate.net/publication/342999505_Compact_UHFVHF_Monopole_Antennas_for_CubeSats_Applications}{paper}}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\linewidth]{spring.jpg}
+	% \caption{Birds}
+\end{figure}
+
+\subsection{Material Choice}
+\begin{itemize}
+	\item strip steel. Used in tape measures. ferromagnetic but serves as comparison.
+	\item 13RM19. strip steel but special non ferromagnetic. hard to obtain
+	\item 1.4310. brother of 13RM19
+	\item Beryllium copper (C17200). no way that this springs. on amazon
+\end{itemize}
+
+\begin{tabular}{lcccc}
+	\toprule
+	\textbf{material} & magnetization & Dehngrenze $R_{p0{,}2\%}$ & elastisity  & specific R \\
+	                  &               & $N/mm ^ 2$                & $kN/mm ^ 2$              \\
+	\midrule
+	1.4310            & low           & 210                       & 200                      \\
+	                  &               &                           &                          \\
+	                  &               &                           &                          \\
+	\bottomrule
+\end{tabular}
+
+\subsection{Simulation}
+
+
+\subsection{Testing}
+
+\subsection{Relevant papers:}
+\begin{itemize}
+	\item \href{}{Compact UHF/VHF Monopole Antennas for CubeSats Applications}
+	\item \href{}{}
+\end{itemize}
+
+% \end{multicols*}
+\end{document}
+
