@@ -2,9 +2,11 @@
 % install libaries with: sudo dnf install texlive-scheme-medium
 % compile with: pdflatex -shell-escape dsp_cheatsheet.tex
 
+
 \begin{document}
-\begin{center}{\vspace{-4cm}
-		\LARGE \textbf{VHF Tranceiver for CUBSAT Applications}}\\
+\begin{center}
+	{\vspace{-4cm}
+	\LARGE \textbf{VHF Tranceiver for CUBSAT Applications}}\\
 	\small Fynn Gewiese | \href{https://github.com/Flynsky}{github}\\
 	\rule{\linewidth}{0.3pt}
 \end{center}
@@ -49,7 +51,7 @@ Chips would require design and measurement of the antenna matching circuit,
 but also could possibly compensate an antenna missmatch.
 \begin{itemize}
 	\item CC1121/5 digital and well documented. Requires PA like SMA70-2
-	\item ADF7020-1BCPZ-RL7 cheap Analog Devices. 
+	\item ADF7020-1BCPZ-RL7 cheap Analog Devices.
 	\item SA818-U looks like trash because it is. Analog FM
 	\item SX1261/2 150 MHz - 960 MHz
 	\item Si446x (119–1050 MHz), looks perfect, reddit says is a bit buggy.
@@ -61,17 +63,40 @@ Pin compatible Chips, CC1125 has a more narrow band than CC1121 so is to be pref
 Can be paired with a power amplifier like Gali 74+ to get +38 dBm :) \href{https://www.youtube.com/watch?v=9ZoO_AABzqU&t=313s}{youtube link}
 
 \begin{figure}[H]
-    \begin{minipage}{0.28\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{assets/CC1125.png}
-        \caption{cc1125}
-    \end{minipage}
-    \begin{minipage}{0.28\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{assets/Gali74.png}
-        \caption{Gali74 +}
-    \end{minipage}
+	\begin{minipage}{0.28\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{assets/CC1125.png}
+		\caption{cc1125}
+	\end{minipage}
+	\begin{minipage}{0.28\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{assets/Gali74.png}
+		\caption{Gali74 +}
+	\end{minipage}
 \end{figure}
+
+\begin{figure}[H]
+	\begin{minipage}{0.28\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{./assets/3Drender.png}
+		\caption{3D render}
+	\end{minipage}
+	\begin{minipage}{0.70\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{assets/schematic.png}
+		\caption{schematic}
+	\end{minipage}
+\end{figure}
+
+\begin{figure}[H]
+	\includegraphics[width=0.9\linewidth]{./assets/simul.png}
+\end{figure}
+% \begin{figure}[h]
+%   \centering
+%   \includegraphics[width=0.8\textwidth]{assets/oi.png}
+%   \caption{}
+%   \label{fig:oi}
+% \end{figure}
 
 \subsection{SA818-U}
 RDA1846 (8 dBm) chip + PA + microcontroller. \href{http://ptptelecom.com/openlmrorg/Tiny_Transcievers.html}{Disassembly}
@@ -87,38 +112,66 @@ RDA1846 (8 dBm) chip + PA + microcontroller. \href{http://ptptelecom.com/openlmr
 \section{Antenna}
 
 \subsection{Mechanical considerations}
-Length estimate:\\
-regarding the conductor as an open-ended single wire transmission line (resonant stub):
-\[
-	l_{\text{monopole}} = \frac{\lambda}{4} = \frac{c}{4f} = \frac{300}{4f\,[\text{MHz}]} = \frac{75}{f\,[\text{MHz}]}\,\text{m}
-\]
-Frequency of around 150 MHz -> length of around 0.5 m.
-
-Requirements:
+\paragraph{Requirements:}
 \begin{itemize}
 	\item Non ferro magnetic
-	\item around .5 m long
+	\item good impedance match
 \end{itemize}
 
-Spring based system:
+\paragraph{Length estimate:}.
+
+Often used for monopoles are $\lambda / 4$:
+\[
+	l_{\text{monopole}} = \frac{\lambda}{4} = \frac{c}{4f} = \frac{300}{4f\,[\text{MHz}]} = \frac{75}{f\,[\text{MHz}]}\,\text{m} = 0.5\;m\text{ at 150 MHz}
+\]
+Also commonly commercial used antennas are $5/8 \lambda$ lengths.
+That is around 125 cm \href{https://www.pmr-funkgeraete.de/Funkgeraete/Amateurfunk/Zubehoer-AFU/Mobilantennen-AFU-KW-VHF-UHF/Diamond-MC-101-PL-Antennenstrahler-134-174-MHz::11365.html}{comertial example}.
+
+\paragraph{Ti Research of 196 MHz Antennas}.
+
 \begin{figure}[H]
-	\includegraphics[width=0.4\linewidth]{spring.png}
+  \centering
+  \includegraphics[width=0.6\textwidth]{assets/TiAntennaComparison.png}
+  \caption{Ti application note swra496a page 45 antenna comparison}
+  \label{fig:tiantennacomparison}
 \end{figure}
 
-Roll based system:
+\paragraph{Spring based system:}.
+
 \begin{figure}[H]
-    \begin{minipage}{0.28\textwidth}
-        \centering
-	\includegraphics[width=\linewidth]{fold.png}
-	\caption{\href{https://www.researchgate.net/publication/342999505_Compact_UHFVHF_Monopole_Antennas_for_CubeSats_Applications}{paper}}
-        % \label{fig:cc1125}
-    \end{minipage}
-    \begin{minipage}{0.28\textwidth}
-        \centering
-	\includegraphics[width=\linewidth]{spring.jpg}
-        \caption{Gali74 +}
-        \label{fig:gali74}
-    \end{minipage}
+	\begin{minipage}{0.38\textwidth}
+		\centering
+  \includegraphics[width=0.8\textwidth]{assets/commertialSolution.png}
+  \caption{Commertial solution \href{https://www.isispace.nl/product/vhf-uhf-antenna-for-1u-3u/}{ISISPACE VHF/UHF antenna}}
+  \label{fig:commertialsolution}
+	\end{minipage}
+	\begin{minipage}{0.38\textwidth}
+		\centering
+	\includegraphics[width=\linewidth]{spring.png}
+	\end{minipage}
+\end{figure}
+
+\paragraph{Roll based system:}.
+\begin{figure}[H]
+	\begin{minipage}{0.38\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{fold.png}
+		\caption{\href{https://www.researchgate.net/publication/342999505_Compact_UHFVHF_Monopole_Antennas_for_CubeSats_Applications}{paper}}
+		% \label{fig:cc1125}
+	\end{minipage}
+	\begin{minipage}{0.38\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{spring.jpg}
+		\caption{\href{https://gitlab.orcasat.ca/orcasat-group/orcasat-antenna}{OrcaSat}}
+		\label{fig:gali74}
+	\end{minipage}
+\end{figure}
+
+\paragraph{SMD Antenna:}.
+
+\begin{figure}[H]
+  \includegraphics[width=0.2\textwidth]{assets/smdantenna.png}
+  \caption{\href{https://satronel.com/products/antennas/embedded/proant-pifa-antennas/onboard-smd-169-mhz-pro-ob-508.html}{OnBoard PRO-OB-508}}
 \end{figure}
 
 \subsection{Material Choice}

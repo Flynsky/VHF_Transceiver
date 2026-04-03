@@ -1,4 +1,4 @@
-27099772647741136
+27327488453934870
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107331,9 +107331,933 @@ Varistor VF
 2
 2
 libary
+GVA63
+DF782 
+Integrated Circuit
+0
+4
+4
+libary
 QFN50P500X500X100-33N-D
 RHB (S-PVQFN-N32)
 Integrated Circuit
 0
 33
 33
+libary
+RFSW6222TR7
+12-Pin, 2 x 2 mm QFN Package
+Integrated Circuit
+0
+13
+13
+libary
+VHF_UHF_Module_generic
+
+
+0
+20
+20
+we_shield
+H_Wurth_WE-SHC-CLIP_36900000
+Shielding Cabinet Clip, body 6.5x0.8x1.28mm, https://www.we-online.com/en/components/products/datasheet/36900000?ki
+SMT
+0
+5
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_3690103020
+Shielding Cabinet for Standard Applications, body 3.1x3.1x0.89mm, https://www.we-online.com/en/components/products/datasheet/3690103020?ki
+SMT
+0
+6
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_3690103021
+Shielding Cabinet for Standard Applications, body 3.1x3.1x0.89mm, https://www.we-online.com/en/components/products/datasheet/3690103021?ki
+SMT
+0
+6
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_3690103022
+Shielding Cabinet for Standard Applications, body 3.1x3.1x0.89mm, https://www.we-online.com/en/components/products/datasheet/3690103022?ki
+SMT
+0
+6
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_3690103023
+Shielding Cabinet for Standard Applications, body 3.1x3.1x0.89mm, https://www.we-online.com/en/components/products/datasheet/3690103023?ki
+SMT
+0
+6
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_36903205S
+Shielding Cabinet for Standard Applications, body 20.4x20.4x3mm, https://www.we-online.com/en/components/products/datasheet/36903205S?ki
+SMT
+0
+16
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_36903255S
+Shielding Cabinet for Standard Applications, body 25.4x25.4x3.2mm, https://www.we-online.com/en/components/products/datasheet/36903255S?ki
+SMT
+0
+20
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_36903305S
+Shielding Cabinet for Standard Applications, body 30.4x30.4x3.2mm, https://www.we-online.com/en/components/products/datasheet/36903305S?ki
+SMT
+0
+24
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_36905266S
+Shielding Cabinet for Standard Applications, body 26.21x26.21x5.08mm, https://www.we-online.com/en/components/products/datasheet/36905266S?ki
+SMT
+0
+20
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_36906326S
+Shielding Cabinet for Standard Applications, body 32x32x6mm, https://www.we-online.com/en/components/products/datasheet/36906326S?ki
+SMT
+0
+24
+1
+we_shield
+H_Wurth_WE-SHC-ONE-PIECE_36907406S
+Shielding Cabinet for Standard Applications, body 44.37x44.37x9.75mm, https://www.we-online.com/en/components/products/datasheet/36907406S?ki
+SMT
+0
+32
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670087
+Seamless Shielding Cabinet for High Frequency Applications, body 8.7x6.3x3mm, https://www.we-online.com/en/components/products/datasheet/3670087?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670093
+Seamless Shielding Cabinet for High Frequency Applications, body 9.3x9.3x5mm, https://www.we-online.com/en/components/products/datasheet/3670093?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670102
+Seamless Shielding Cabinet for High Frequency Applications, body 10.2x6x3mm, https://www.we-online.com/en/components/products/datasheet/3670102?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670108
+Seamless Shielding Cabinet for High Frequency Applications, body 10.8x7.4x2mm, https://www.we-online.com/en/components/products/datasheet/3670108?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670110
+Seamless Shielding Cabinet for High Frequency Applications, body 11x11x2.8mm, https://www.we-online.com/en/components/products/datasheet/3670110?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670128
+Seamless Shielding Cabinet for High Frequency Applications, body 12.8x12.3x7.5mm, https://www.we-online.com/en/components/products/datasheet/3670128?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670130
+Seamless Shielding Cabinet for High Frequency Applications, body 13x13x5mm, https://www.we-online.com/en/components/products/datasheet/3670130?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670135
+Seamless Shielding Cabinet for High Frequency Applications, body 13.5x13.5x5mm, https://www.we-online.com/en/components/products/datasheet/3670135?ki
+SMT
+0
+4
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670148
+Seamless Shielding Cabinet for High Frequency Applications, body 14.8x8.9x2mm, https://www.we-online.com/en/components/products/datasheet/3670148?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670156
+Seamless Shielding Cabinet for High Frequency Applications, body 15.6x10.6x3mm, https://www.we-online.com/en/components/products/datasheet/3670156?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670168
+Seamless Shielding Cabinet for High Frequency Applications, body 16.8x13.5x5mm, https://www.we-online.com/en/components/products/datasheet/3670168?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670183
+Seamless Shielding Cabinet for High Frequency Applications, body 18.3x10.5x3mm, https://www.we-online.com/en/components/products/datasheet/3670183?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670190
+Seamless Shielding Cabinet for High Frequency Applications, body 19x13.9x2mm, https://www.we-online.com/en/components/products/datasheet/3670190?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670191
+Seamless Shielding Cabinet for High Frequency Applications, body 19.1x18.2x5mm, https://www.we-online.com/en/components/products/datasheet/3670191?ki
+SMT
+0
+3
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670193
+Seamless Shielding Cabinet for High Frequency Applications, body 19.3x10.5x3mm, https://www.we-online.com/en/components/products/datasheet/3670193?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670206
+Seamless Shielding Cabinet for High Frequency Applications, body 20.6x17.8x3mm, https://www.we-online.com/en/components/products/datasheet/3670206?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670209
+Seamless Shielding Cabinet for High Frequency Applications, body 20.9x15.3x1.7mm, https://www.we-online.com/en/components/products/datasheet/3670209?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670210
+Seamless Shielding Cabinet for High Frequency Applications, body 21x12x5mm, https://www.we-online.com/en/components/products/datasheet/3670210?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670213
+Seamless Shielding Cabinet for High Frequency Applications, body 21.3x19.9x2.9mm, https://www.we-online.com/en/components/products/datasheet/3670213?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670220
+Seamless Shielding Cabinet for High Frequency Applications, body 22x19.3x3.3mm, https://www.we-online.com/en/components/products/datasheet/3670220?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670223
+Seamless Shielding Cabinet for High Frequency Applications, body 22.3x17.3x5mm, https://www.we-online.com/en/components/products/datasheet/3670223?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670226
+Seamless Shielding Cabinet for High Frequency Applications, body 22.6x17.1x2mm, https://www.we-online.com/en/components/products/datasheet/3670226?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670230
+Seamless Shielding Cabinet for High Frequency Applications, body 23x11.7x5mm, https://www.we-online.com/en/components/products/datasheet/3670230?ki
+SMT
+0
+4
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670233
+Seamless Shielding Cabinet for High Frequency Applications, body 23.3x17.5x5mm, https://www.we-online.com/en/components/products/datasheet/3670233?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670250
+Seamless Shielding Cabinet for High Frequency Applications, body 25x21x4mm, https://www.we-online.com/en/components/products/datasheet/3670250?ki
+SMT
+0
+4
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670256
+Seamless Shielding Cabinet for High Frequency Applications, body 25.6x15.5x2.3mm, https://www.we-online.com/en/components/products/datasheet/3670256?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670257
+Seamless Shielding Cabinet for High Frequency Applications, body 25.7x25.7x6.5mm, https://www.we-online.com/en/components/products/datasheet/3670257?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670259
+Seamless Shielding Cabinet for High Frequency Applications, body 25.9x25.9x3mm, https://www.we-online.com/en/components/products/datasheet/3670259?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670260
+Seamless Shielding Cabinet for High Frequency Applications, body 26x23x7.8mm, https://www.we-online.com/en/components/products/datasheet/3670260?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670263
+Seamless Shielding Cabinet for High Frequency Applications, body 26.3x16.8x4.5mm, https://www.we-online.com/en/components/products/datasheet/3670263?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670268
+Seamless Shielding Cabinet for High Frequency Applications, body 26.8x15.6x2.5mm, https://www.we-online.com/en/components/products/datasheet/3670268?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670270
+Seamless Shielding Cabinet for High Frequency Applications, body 27x20x6mm, https://www.we-online.com/en/components/products/datasheet/3670270?ki
+SMT
+0
+4
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670288
+Seamless Shielding Cabinet for High Frequency Applications, body 28.8x19.4x5mm, https://www.we-online.com/en/components/products/datasheet/3670288?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670290
+Seamless Shielding Cabinet for High Frequency Applications, body 29x26x3mm, https://www.we-online.com/en/components/products/datasheet/3670290?ki
+SMT
+0
+4
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670293
+Seamless Shielding Cabinet for High Frequency Applications, body 29.3x25.3x6.4mm, https://www.we-online.com/en/components/products/datasheet/3670293?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670299
+Seamless Shielding Cabinet for High Frequency Applications, body 30x24.4x3.5mm, https://www.we-online.com/en/components/products/datasheet/3670299?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670302
+Seamless Shielding Cabinet for High Frequency Applications, body 30.2x18.9x3mm, https://www.we-online.com/en/components/products/datasheet/3670302?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670308
+Seamless Shielding Cabinet for High Frequency Applications, body 30.8x17.8x4.4mm, https://www.we-online.com/en/components/products/datasheet/3670308?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670310
+Seamless Shielding Cabinet for High Frequency Applications, body 31x17.1x3mm, https://www.we-online.com/en/components/products/datasheet/3670310?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670312
+Seamless Shielding Cabinet for High Frequency Applications, body 31.2x30x5mm, https://www.we-online.com/en/components/products/datasheet/3670312?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670320
+Seamless Shielding Cabinet for High Frequency Applications, body 32x11.3x2mm, https://www.we-online.com/en/components/products/datasheet/3670320?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670321
+Seamless Shielding Cabinet for High Frequency Applications, body 32.1x16.6x2.5mm, https://www.we-online.com/en/components/products/datasheet/3670321?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670323
+Seamless Shielding Cabinet for High Frequency Applications, body 32.3x23.8x3.7mm, https://www.we-online.com/en/components/products/datasheet/3670323?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670329
+Seamless Shielding Cabinet for High Frequency Applications, body 32.9x20.7x2.5mm, https://www.we-online.com/en/components/products/datasheet/3670329?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670333
+Seamless Shielding Cabinet for High Frequency Applications, body 33.3x13.3x4.4mm, https://www.we-online.com/en/components/products/datasheet/3670333?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670338
+Seamless Shielding Cabinet for High Frequency Applications, body 33.8x30.3x3.3mm, https://www.we-online.com/en/components/products/datasheet/3670338?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670345
+Seamless Shielding Cabinet for High Frequency Applications, body 34.5x23.3x3.5mm, https://www.we-online.com/en/components/products/datasheet/3670345?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670353
+Seamless Shielding Cabinet for High Frequency Applications, body 35.3x20x6.4mm, https://www.we-online.com/en/components/products/datasheet/3670353?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670355
+Seamless Shielding Cabinet for High Frequency Applications, body 35.5x19x5.5mm, https://www.we-online.com/en/components/products/datasheet/3670355?ki
+SMT
+0
+3
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670366
+Seamless Shielding Cabinet for High Frequency Applications, body 36.6x34.1x3.3mm, https://www.we-online.com/en/components/products/datasheet/3670366?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670375
+Seamless Shielding Cabinet for High Frequency Applications, body 37.5x29.3x6.5mm, https://www.we-online.com/en/components/products/datasheet/3670375?ki
+SMT
+0
+3
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670378
+Seamless Shielding Cabinet for High Frequency Applications, body 37.8x21.6x3mm, https://www.we-online.com/en/components/products/datasheet/3670378?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670382
+Seamless Shielding Cabinet for High Frequency Applications, body 38.2x33.3x5mm, https://www.we-online.com/en/components/products/datasheet/3670382?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670384
+Seamless Shielding Cabinet for High Frequency Applications, body 38.4x37.6x11mm, https://www.we-online.com/en/components/products/datasheet/3670384?ki
+SMT
+0
+3
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670400
+Seamless Shielding Cabinet for High Frequency Applications, body 40x18.3x4mm, https://www.we-online.com/en/components/products/datasheet/3670400?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670402
+Seamless Shielding Cabinet for High Frequency Applications, body 40.2x34.6x5.3mm, https://www.we-online.com/en/components/products/datasheet/3670402?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670405
+Seamless Shielding Cabinet for High Frequency Applications, body 40.5x18.9x2.8mm, https://www.we-online.com/en/components/products/datasheet/3670405?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670409
+Seamless Shielding Cabinet for High Frequency Applications, body 40.9x21.5x2.5mm, https://www.we-online.com/en/components/products/datasheet/3670409?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670410
+Seamless Shielding Cabinet for High Frequency Applications, body 41x26.4x3.7mm, https://www.we-online.com/en/components/products/datasheet/3670410?ki
+SMT
+0
+3
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670412
+Seamless Shielding Cabinet for High Frequency Applications, body 41.2x13.6x5.1mm, https://www.we-online.com/en/components/products/datasheet/3670412?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670415
+Seamless Shielding Cabinet for High Frequency Applications, body 41.5x16.8x6.8mm, https://www.we-online.com/en/components/products/datasheet/3670415?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670423
+Seamless Shielding Cabinet for High Frequency Applications, body 42.3x15.3x4.4mm, https://www.we-online.com/en/components/products/datasheet/3670423?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670434
+Seamless Shielding Cabinet for High Frequency Applications, body 43.4x28.4x3.3mm, https://www.we-online.com/en/components/products/datasheet/3670434?ki
+SMT
+0
+4
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670448
+Seamless Shielding Cabinet for High Frequency Applications, body 44.8x18.2x3mm, https://www.we-online.com/en/components/products/datasheet/3670448?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670453
+Seamless Shielding Cabinet for High Frequency Applications, body 45.3x16.2x6mm, https://www.we-online.com/en/components/products/datasheet/3670453?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670466
+Seamless Shielding Cabinet for High Frequency Applications, body 46.6x17.3x5mm, https://www.we-online.com/en/components/products/datasheet/3670466?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670473
+Seamless Shielding Cabinet for High Frequency Applications, body 47.3x23.3x5.3mm, https://www.we-online.com/en/components/products/datasheet/3670473?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670477
+Seamless Shielding Cabinet for High Frequency Applications, body 47.7x18.2x4mm, https://www.we-online.com/en/components/products/datasheet/3670477?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670483
+Seamless Shielding Cabinet for High Frequency Applications, body 48.3x44.3x4.4mm, https://www.we-online.com/en/components/products/datasheet/3670483?ki
+SMT
+0
+4
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670511
+Seamless Shielding Cabinet for High Frequency Applications, body 51.1x25.7x6.5mm, https://www.we-online.com/en/components/products/datasheet/3670511?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670513
+Seamless Shielding Cabinet for High Frequency Applications, body 51.3x26.5x9.5mm, https://www.we-online.com/en/components/products/datasheet/3670513?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670520
+Seamless Shielding Cabinet for High Frequency Applications, body 52x26.7x6mm, https://www.we-online.com/en/components/products/datasheet/3670520?ki
+SMT
+0
+3
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670544
+Seamless Shielding Cabinet for High Frequency Applications, body 54.4x23.9x7.5mm, https://www.we-online.com/en/components/products/datasheet/3670544?ki
+SMT
+0
+4
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670548
+Seamless Shielding Cabinet for High Frequency Applications, body 54.8x40.8x11mm, https://www.we-online.com/en/components/products/datasheet/3670548?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670570
+Seamless Shielding Cabinet for High Frequency Applications, body 57x31x6mm, https://www.we-online.com/en/components/products/datasheet/3670570?ki
+SMT
+0
+3
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670585
+Seamless Shielding Cabinet for High Frequency Applications, body 58.5x49.7x4.7mm, https://www.we-online.com/en/components/products/datasheet/3670585?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670593
+Seamless Shielding Cabinet for High Frequency Applications, body 59.3x20.6x2.8mm, https://www.we-online.com/en/components/products/datasheet/3670593?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670595
+Seamless Shielding Cabinet for High Frequency Applications, body 59.5x50.4x3.2mm, https://www.we-online.com/en/components/products/datasheet/3670595?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670631
+Seamless Shielding Cabinet for High Frequency Applications, body 63.1x35.5x2.8mm, https://www.we-online.com/en/components/products/datasheet/3670631?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670638
+Seamless Shielding Cabinet for High Frequency Applications, body 63.8x36.3x11mm, https://www.we-online.com/en/components/products/datasheet/3670638?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670737
+Seamless Shielding Cabinet for High Frequency Applications, body 73.7x28.1x2.9mm, https://www.we-online.com/en/components/products/datasheet/3670737?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36701106
+Seamless Shielding Cabinet for High Frequency Applications, body 11x11x6mm, https://www.we-online.com/en/components/products/datasheet/36701106?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36701933
+Seamless Shielding Cabinet for High Frequency Applications, body 19.3x18.3x3.5mm, https://www.we-online.com/en/components/products/datasheet/36701933?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36702092
+Seamless Shielding Cabinet for High Frequency Applications, body 20.9x15.3x2mm, https://www.we-online.com/en/components/products/datasheet/36702092?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36702202
+Seamless Shielding Cabinet for High Frequency Applications, body 22x11.3x2.8mm, https://www.we-online.com/en/components/products/datasheet/36702202?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36702203
+Seamless Shielding Cabinet for High Frequency Applications, body 22x17.7x3mm, https://www.we-online.com/en/components/products/datasheet/36702203?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36702207
+Seamless Shielding Cabinet for High Frequency Applications, body 22x11.3x7mm, https://www.we-online.com/en/components/products/datasheet/36702207?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36702333
+Seamless Shielding Cabinet for High Frequency Applications, body 23.3x14.5x3mm, https://www.we-online.com/en/components/products/datasheet/36702333?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36702638
+Seamless Shielding Cabinet for High Frequency Applications, body 26.3x19.8x8.1mm, https://www.we-online.com/en/components/products/datasheet/36702638?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36702684
+Seamless Shielding Cabinet for High Frequency Applications, body 26.8x15.6x4mm, https://www.we-online.com/en/components/products/datasheet/36702684?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36702939
+Seamless Shielding Cabinet for High Frequency Applications, body 29.3x16.3x9.7mm, https://www.we-online.com/en/components/products/datasheet/36702939?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36703234
+Seamless Shielding Cabinet for High Frequency Applications, body 32.3x23.8x4.7mm, https://www.we-online.com/en/components/products/datasheet/36703234?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36703239
+Seamless Shielding Cabinet for High Frequency Applications, body 32.3x23.8x9mm, https://www.we-online.com/en/components/products/datasheet/36703239?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36703453
+Seamless Shielding Cabinet for High Frequency Applications, body 34.5x21.5x3.2mm, https://www.we-online.com/en/components/products/datasheet/36703453?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36703536
+Seamless Shielding Cabinet for High Frequency Applications, body 35.3x22.3x6.4mm, https://www.we-online.com/en/components/products/datasheet/36703536?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36703783
+Seamless Shielding Cabinet for High Frequency Applications, body 37.8x15.1x3.7mm, https://www.we-online.com/en/components/products/datasheet/36703783?ki
+SMT
+0
+3
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36704159
+Seamless Shielding Cabinet for High Frequency Applications, body 41.5x26.5x9.5mm, https://www.we-online.com/en/components/products/datasheet/36704159?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36704485
+Seamless Shielding Cabinet for High Frequency Applications, body 44.8x18.2x5.7mm, https://www.we-online.com/en/components/products/datasheet/36704485?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36705116
+Seamless Shielding Cabinet for High Frequency Applications, body 51.1x38.4x6.5mm, https://www.we-online.com/en/components/products/datasheet/36705116?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_36705935
+Seamless Shielding Cabinet for High Frequency Applications, body 59.3x20.6x5.7mm, https://www.we-online.com/en/components/products/datasheet/36705935?ki
+SMT
+0
+2
+1
+we_shield
+H_Wurth_WE-SHC-SEAMLESS-FRAME_367054413
+Seamless Shielding Cabinet for High Frequency Applications, body 54.4x23.9x13.5mm, https://www.we-online.com/en/components/products/datasheet/367054413?ki
+SMT
+0
+1
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_3610213126S
+Shielding Cabinet for Standard Applications, body 12.7x13.66x2.54mm, https://www.we-online.com/en/components/products/datasheet/3610213126S?ki
+SMT
+0
+12
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_3610536336S
+Shielding Cabinet for Standard Applications, body 36.83x33.68x5.08mm, https://www.we-online.com/en/components/products/datasheet/3610536336S?ki
+SMT
+0
+24
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_3610637256S
+Shielding Cabinet for Standard Applications, body 38.1x25.4x6mm, https://www.we-online.com/en/components/products/datasheet/3610637256S?ki
+SMT
+0
+24
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103166S
+Shielding Cabinet for Standard Applications, body 16.5x16.5x3.6mm, https://www.we-online.com/en/components/products/datasheet/36103166S?ki
+SMT
+0
+12
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103205
+Shielding Cabinet for Standard Applications, body 21x21x3.5mm, https://www.we-online.com/en/components/products/datasheet/36103205?ki
+SMT
+0
+16
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103205S
+Shielding Cabinet for Standard Applications, body 20.4x20.4x3.2mm, https://www.we-online.com/en/components/products/datasheet/36103205S?ki
+SMT
+0
+16
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103255
+Shielding Cabinet for Standard Applications, body 26x26x3.5mm, https://www.we-online.com/en/components/products/datasheet/36103255?ki
+SMT
+0
+20
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103255S
+Shielding Cabinet for Standard Applications, body 25.4x25.4x3mm, https://www.we-online.com/en/components/products/datasheet/36103255S?ki
+SMT
+0
+20
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103305
+Shielding Cabinet for Standard Applications, body 31x31x3.5mm, https://www.we-online.com/en/components/products/datasheet/36103305?ki
+SMT
+0
+24
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103305S
+Shielding Cabinet for Standard Applications, body 30.4x30.4x3.2mm, https://www.we-online.com/en/components/products/datasheet/36103305S?ki
+SMT
+0
+24
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103505
+Shielding Cabinet for Standard Applications, body 51x51x3.5mm, https://www.we-online.com/en/components/products/datasheet/36103505?ki
+SMT
+0
+40
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103505S
+Shielding Cabinet for Standard Applications, body 50.4x50.4x3.2mm, https://www.we-online.com/en/components/products/datasheet/36103505S?ki
+SMT
+0
+40
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103605
+Shielding Cabinet for Standard Applications, body 61x61x3.5mm, https://www.we-online.com/en/components/products/datasheet/36103605?ki
+SMT
+0
+48
+24
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36103605S
+Shielding Cabinet for Standard Applications, body 60.4x60.4x3.2mm, https://www.we-online.com/en/components/products/datasheet/36103605S?ki
+SMT
+0
+48
+24
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36105266S
+Shielding Cabinet for Standard Applications, body 26.21x26.21x5.08mm, https://www.we-online.com/en/components/products/datasheet/36105266S?ki
+SMT
+0
+20
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36106326S
+Shielding Cabinet for Standard Applications, body 32x32x6mm, https://www.we-online.com/en/components/products/datasheet/36106326S?ki
+SMT
+0
+24
+1
+we_shield
+H_Wurth_WE-SHC-SMT-FRAME_36107406S
+Shielding Cabinet for Standard Applications, body 44.37x44.37x9.55mm, https://www.we-online.com/en/components/products/datasheet/36107406S?ki
+SMT
+0
+32
+1

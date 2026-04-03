@@ -3,11 +3,17 @@
 \contentsline {section}{\numberline {2}Transceiver}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Selection}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}CC1121/5}{3}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}SA818-U}{3}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Si446x}{3}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Antenna}{3}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Mechanical considerations}{3}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Material Choice}{4}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Simulation}{4}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Testing}{4}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Relevant papers:}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {2.3}SA818-U}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Si446x}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Antenna}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Mechanical considerations}{4}{subsection.3.1}%
+\contentsline {paragraph}{Requirements:}{4}{paragraph*.7}%
+\contentsline {paragraph}{Length estimate:}{4}{paragraph*.8}%
+\contentsline {paragraph}{Ti Research of 196 MHz Antennas}{4}{paragraph*.9}%
+\contentsline {paragraph}{Spring based system:}{5}{paragraph*.11}%
+\contentsline {paragraph}{Roll based system:}{5}{paragraph*.13}%
+\contentsline {paragraph}{SMD Antenna:}{5}{paragraph*.15}%
+\contentsline {subsection}{\numberline {3.2}Material Choice}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Simulation}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Testing}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Relevant papers:}{5}{subsection.3.5}%
