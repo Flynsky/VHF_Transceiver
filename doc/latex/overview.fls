@@ -1079,6 +1079,7 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 INPUT ./overview.out
 INPUT overview.out
 INPUT ./overview.out
@@ -1170,14 +1171,14 @@ INPUT ./assets/RequireGroundstation.png
 INPUT assets/RequireGroundstation.png
 INPUT ./assets/RequireGroundstation.png
 INPUT ./assets/RequireGroundstation.png
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./assets/Friis.png
 INPUT ./assets/Friis.png
 INPUT assets/Friis.png
 INPUT ./assets/Friis.png
 INPUT ./assets/Friis.png
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
-INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
 INPUT ./assets/CC1125.png
 INPUT ./assets/CC1125.png
