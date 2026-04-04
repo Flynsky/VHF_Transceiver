@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.2.20)  4 APR 2026 00:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.2.20)  5 APR 2026 00:10
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -737,24 +737,24 @@ LaTeX Warning: Unused global option(s):
 (./overview.aux)
 \openout1 = `overview.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -815,7 +815,7 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 6.
+Package hyperref Info: Link coloring ON on input line 5.
  (./overview.out) (./overview.out)
 \@outlinefile=\write4
 \openout4 = `overview.out'.
@@ -823,7 +823,7 @@ Package hyperref Info: Link coloring ON on input line 6.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 6.
+ on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -848,7 +848,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <assets/RequireGroundstation.png, id=68, 608.2725pt x 910.40125pt>
 File: assets/RequireGroundstation.png Graphic file (type png)
 <use assets/RequireGroundstation.png>
-Package pdftex.def Info: assets/RequireGroundstation.png  used on input line 31.
+Package pdftex.def Info: assets/RequireGroundstation.png  used on input line 30.
 (pdftex.def)             Requested size: 270.3012pt x 404.56467pt.
  [1
 
@@ -856,85 +856,81 @@ Package pdftex.def Info: assets/RequireGroundstation.png  used on input line 31.
 <assets/Friis.png, id=82, 1121.18875pt x 463.7325pt>
 File: assets/Friis.png Graphic file (type png)
 <use assets/Friis.png>
-Package pdftex.def Info: assets/Friis.png  used on input line 39.
+Package pdftex.def Info: assets/Friis.png  used on input line 38.
 (pdftex.def)             Requested size: 432.48355pt x 178.88074pt.
  [2 <./assets/Friis.png>]
 <assets/CC1125.png, id=90, 983.675pt x 820.06375pt>
 File: assets/CC1125.png Graphic file (type png)
 <use assets/CC1125.png>
-Package pdftex.def Info: assets/CC1125.png  used on input line 69.
+Package pdftex.def Info: assets/CC1125.png  used on input line 68.
 (pdftex.def)             Requested size: 151.368pt x 126.18259pt.
 <assets/Gali74.png, id=91, 430.60875pt x 219.82124pt>
 File: assets/Gali74.png Graphic file (type png)
 <use assets/Gali74.png>
-Package pdftex.def Info: assets/Gali74.png  used on input line 74.
+Package pdftex.def Info: assets/Gali74.png  used on input line 73.
 (pdftex.def)             Requested size: 151.368pt x 77.274pt.
 <./assets/3Drender.png, id=92, 778.91pt x 647.41875pt>
 File: ./assets/3Drender.png Graphic file (type png)
 <use ./assets/3Drender.png>
-Package pdftex.def Info: ./assets/3Drender.png  used on input line 82.
+Package pdftex.def Info: ./assets/3Drender.png  used on input line 81.
 (pdftex.def)             Requested size: 151.368pt x 125.80653pt.
 <assets/schematic.png, id=93, 1537.745pt x 553.06625pt>
 File: assets/schematic.png Graphic file (type png)
 <use assets/schematic.png>
-Package pdftex.def Info: assets/schematic.png  used on input line 87.
+Package pdftex.def Info: assets/schematic.png  used on input line 86.
 (pdftex.def)             Requested size: 378.42001pt x 136.09737pt.
-<./assets/simul.png, id=94, 2859.18187pt x 1422.0628pt>
+<./assets/simul.png, id=94, 2831.32782pt x 1206.00563pt>
 File: ./assets/simul.png Graphic file (type png)
 <use ./assets/simul.png>
-Package pdftex.def Info: ./assets/simul.png  used on input line 93.
-(pdftex.def)             Requested size: 486.53883pt x 241.98616pt.
+Package pdftex.def Info: ./assets/simul.png  used on input line 92.
+(pdftex.def)             Requested size: 540.60239pt x 230.26598pt.
 <./pics/SA818.png, id=96, 438.63875pt x 286.06876pt>
 File: ./pics/SA818.png Graphic file (type png)
 <use ./pics/SA818.png>
-Package pdftex.def Info: ./pics/SA818.png  used on input line 105.
+Package pdftex.def Info: ./pics/SA818.png  used on input line 104.
 (pdftex.def)             Requested size: 108.11882pt x 70.51305pt.
  [3 <./assets/CC1125.png> <./assets/Gali74.png> <./assets/3Drender.png> <./assets/schematic.png> <./assets/simul.png (PNG copy)>]
 <./pics/si.png, id=108, 874.26625pt x 578.16pt>
 File: ./pics/si.png Graphic file (type png)
 <use ./pics/si.png>
-Package pdftex.def Info: ./pics/si.png  used on input line 110.
+Package pdftex.def Info: ./pics/si.png  used on input line 109.
 (pdftex.def)             Requested size: 108.11882pt x 71.49348pt.
 <assets/TiAntennaComparison.png, id=110, 918.43124pt x 822.07124pt>
 File: assets/TiAntennaComparison.png Graphic file (type png)
 <use assets/TiAntennaComparison.png>
-Package pdftex.def Info: assets/TiAntennaComparison.png  used on input line 135.
+Package pdftex.def Info: assets/TiAntennaComparison.png  used on input line 134.
 (pdftex.def)             Requested size: 324.36473pt x 290.33835pt.
 <assets/commertialSolution.png, id=111, 1003.75pt x 1003.75pt>
 File: assets/commertialSolution.png Graphic file (type png)
 <use assets/commertialSolution.png>
-Package pdftex.def Info: assets/commertialSolution.png  used on input line 145.
+Package pdftex.def Info: assets/commertialSolution.png  used on input line 144.
 (pdftex.def)             Requested size: 164.34584pt x 164.34038pt.
 <./pics//spring.png, id=114, 705.63625pt x 475.7775pt>
 File: ./pics//spring.png Graphic file (type png)
 <use ./pics//spring.png>
-Package pdftex.def Info: ./pics//spring.png  used on input line 151.
+Package pdftex.def Info: ./pics//spring.png  used on input line 150.
 (pdftex.def)             Requested size: 205.43153pt x 138.50916pt.
  [4 <./pics/SA818.png> <./pics/si.png> <./assets/TiAntennaComparison.png>]
 <./pics//fold.png, id=132, 1239.63126pt x 769.87625pt>
 File: ./pics//fold.png Graphic file (type png)
 <use ./pics//fold.png>
-Package pdftex.def Info: ./pics//fold.png  used on input line 159.
+Package pdftex.def Info: ./pics//fold.png  used on input line 158.
 (pdftex.def)             Requested size: 205.43153pt x 127.57622pt.
 <./pics//spring.jpg, id=135, 5141.2075pt x 2416.02625pt>
 File: ./pics//spring.jpg Graphic file (type jpg)
 <use ./pics//spring.jpg>
-Package pdftex.def Info: ./pics//spring.jpg  used on input line 165.
+Package pdftex.def Info: ./pics//spring.jpg  used on input line 164.
 (pdftex.def)             Requested size: 205.43153pt x 96.51399pt.
 <assets/smdantenna.png, id=138, 610.28pt x 489.83pt>
 File: assets/smdantenna.png Graphic file (type png)
 <use assets/smdantenna.png>
-Package pdftex.def Info: assets/smdantenna.png  used on input line 174.
+Package pdftex.def Info: assets/smdantenna.png  used on input line 173.
 (pdftex.def)             Requested size: 108.11882pt x 86.77539pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 206.
+Package hyperref Warning: Suppressing link with empty target on input line 205.
 
-[5 <./assets/commertialSolution.png> <./pics//spring.png> <./pics//fold.png> <./pics//spring.jpg> <./assets/smdantenna.png>]
-
-Package hyperref Warning: Suppressing empty link on input line 207.
-
-[6] (./overview.aux)
+[5 <./assets/commertialSolution.png> <./pics//spring.png> <./pics//fold.png> <./pics//spring.jpg> <./assets/smdantenna.png>] [6] (./overview.aux)
 Package rerunfilecheck Info: File `overview.out' has not changed.
 (rerunfilecheck)             Checksum: F688773509DB57E88768094DC6F6BDF1;1319.
  ) 
@@ -947,7 +943,7 @@ Here is how much of TeX's memory you used:
  430 hyphenation exceptions out of 8191
  89i,11n,83p,1197b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on overview.pdf (6 pages, 4122665 bytes).
+Output written on overview.pdf (6 pages, 4080411 bytes).
 PDF statistics:
  223 PDF objects out of 1000 (max. 8388607)
  158 compressed objects within 2 object streams
