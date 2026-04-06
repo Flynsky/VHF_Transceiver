@@ -1180,16 +1180,6 @@ INPUT assets/Friis.png
 INPUT ./assets/Friis.png
 INPUT ./assets/Friis.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
-INPUT ./assets/CC1125.png
-INPUT ./assets/CC1125.png
-INPUT assets/CC1125.png
-INPUT ./assets/CC1125.png
-INPUT ./assets/CC1125.png
-INPUT ./assets/Gali74.png
-INPUT ./assets/Gali74.png
-INPUT assets/Gali74.png
-INPUT ./assets/Gali74.png
-INPUT ./assets/Gali74.png
 INPUT ./assets/3Drender.png
 INPUT ./assets/3Drender.png
 INPUT ./assets/3Drender.png
@@ -1210,13 +1200,19 @@ INPUT ./pics/SA818.png
 INPUT ./pics/SA818.png
 INPUT ./pics/SA818.png
 INPUT ./pics/SA818.png
-INPUT ./pics/si.png
-INPUT ./pics/si.png
-INPUT ./pics/si.png
-INPUT ./pics/si.png
-INPUT ./pics/si.png
+INPUT ./assets/monovsdipole.png
+INPUT ./assets/monovsdipole.png
+INPUT assets/monovsdipole.png
+INPUT ./assets/monovsdipole.png
+INPUT ./assets/monovsdipole.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0500.tfm
+INPUT ./assets/ground plane effect out of a randoms youtubers video.png
+INPUT ./assets/ground plane effect out of a randoms youtubers video.png
+INPUT assets/ground plane effect out of a randoms youtubers video.png
+INPUT ./assets/ground plane effect out of a randoms youtubers video.png
+INPUT ./assets/ground plane effect out of a randoms youtubers video.png
 INPUT ./assets/TiAntennaComparison.png
 INPUT ./assets/TiAntennaComparison.png
 INPUT assets/TiAntennaComparison.png
@@ -1251,10 +1247,11 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb

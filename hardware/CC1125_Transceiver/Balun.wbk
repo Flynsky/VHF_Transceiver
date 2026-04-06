@@ -30,9 +30,9 @@
           "trace_type": 544
         },
         {
-          "color": "rgb(55, 126, 184)",
+          "color": "rgb(77, 175, 74)",
           "cursor1": {
-            "position": 195799620.93918028,
+            "position": 195937122.02876744,
             "x_format": "3~Hz",
             "y_format": "3~"
           },
@@ -40,8 +40,8 @@
             "x_format": "3~s",
             "y_format": "3~V"
           },
-          "signal": "S_1_2",
-          "trace_type": 544
+          "signal": "S_2_1",
+          "trace_type": 32
         }
       ]
     }

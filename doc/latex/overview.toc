@@ -3,17 +3,16 @@
 \contentsline {section}{\numberline {2}Transceiver}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Selection}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}CC1121/5}{3}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}SA818-U}{4}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Si446x}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.3}SA818-U}{3}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Antenna}{4}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Mechanical considerations}{4}{subsection.3.1}%
-\contentsline {paragraph}{Requirements:}{4}{paragraph*.7}%
-\contentsline {paragraph}{Length estimate:}{4}{paragraph*.8}%
-\contentsline {paragraph}{Ti Research of 196 MHz Antennas}{4}{paragraph*.9}%
-\contentsline {paragraph}{Spring based system:}{5}{paragraph*.11}%
-\contentsline {paragraph}{Roll based system:}{5}{paragraph*.13}%
-\contentsline {paragraph}{SMD Antenna:}{5}{paragraph*.15}%
-\contentsline {subsection}{\numberline {3.2}Material Choice}{5}{subsection.3.2}%
+\contentsline {paragraph}{Requirements:}{4}{paragraph*.5}%
+\contentsline {paragraph}{Antenna Types:}{4}{paragraph*.6}%
+\contentsline {paragraph}{Ti Research of 196 MHz Antennas}{5}{paragraph*.10}%
+\contentsline {paragraph}{Spring based system:}{5}{paragraph*.12}%
+\contentsline {paragraph}{Roll based system:}{5}{paragraph*.14}%
+\contentsline {paragraph}{SMD Antenna:}{6}{paragraph*.16}%
+\contentsline {subsection}{\numberline {3.2}Material Choice}{6}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Simulation}{6}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Testing}{6}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Relevant papers:}{6}{subsection.3.5}%

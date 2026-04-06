@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.2.20)  6 APR 2026 03:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.2.20)  6 APR 2026 21:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -845,7 +845,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write5
 \openout5 = `overview.toc'.
 
-<assets/RequireGroundstation.png, id=68, 608.2725pt x 910.40125pt>
+<assets/RequireGroundstation.png, id=63, 608.2725pt x 910.40125pt>
 File: assets/RequireGroundstation.png Graphic file (type png)
 <use assets/RequireGroundstation.png>
 Package pdftex.def Info: assets/RequireGroundstation.png  used on input line 31.
@@ -853,100 +853,101 @@ Package pdftex.def Info: assets/RequireGroundstation.png  used on input line 31.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./assets/RequireGroundstation.png>]
-<assets/Friis.png, id=82, 1121.18875pt x 463.7325pt>
+<assets/Friis.png, id=77, 1121.18875pt x 463.7325pt>
 File: assets/Friis.png Graphic file (type png)
 <use assets/Friis.png>
 Package pdftex.def Info: assets/Friis.png  used on input line 39.
 (pdftex.def)             Requested size: 432.48355pt x 178.88074pt.
  [2 <./assets/Friis.png>]
-<assets/CC1125.png, id=90, 983.675pt x 820.06375pt>
-File: assets/CC1125.png Graphic file (type png)
-<use assets/CC1125.png>
-Package pdftex.def Info: assets/CC1125.png  used on input line 69.
-(pdftex.def)             Requested size: 151.368pt x 126.18259pt.
-<assets/Gali74.png, id=91, 430.60875pt x 219.82124pt>
-File: assets/Gali74.png Graphic file (type png)
-<use assets/Gali74.png>
-Package pdftex.def Info: assets/Gali74.png  used on input line 74.
-(pdftex.def)             Requested size: 151.368pt x 77.274pt.
-<./assets/3Drender.png, id=92, 1210.5225pt x 438.63875pt>
+<./assets/3Drender.png, id=86, 954.56625pt x 911.405pt>
 File: ./assets/3Drender.png Graphic file (type png)
 <use ./assets/3Drender.png>
-Package pdftex.def Info: ./assets/3Drender.png  used on input line 82.
-(pdftex.def)             Requested size: 151.368pt x 54.8431pt.
-<assets/schematic.png, id=93, 1537.745pt x 553.06625pt>
+Package pdftex.def Info: ./assets/3Drender.png  used on input line 88.
+(pdftex.def)             Requested size: 108.11882pt x 103.21703pt.
+<assets/schematic.png, id=87, 1537.745pt x 553.06625pt>
 File: assets/schematic.png Graphic file (type png)
 <use assets/schematic.png>
-Package pdftex.def Info: assets/schematic.png  used on input line 87.
+Package pdftex.def Info: assets/schematic.png  used on input line 93.
 (pdftex.def)             Requested size: 378.42001pt x 136.09737pt.
-<./assets/simul.png, id=94, 2831.32782pt x 1206.00563pt>
+<./assets/simul.png, id=88, 2831.32782pt x 1206.00563pt>
 File: ./assets/simul.png Graphic file (type png)
 <use ./assets/simul.png>
-Package pdftex.def Info: ./assets/simul.png  used on input line 93.
+Package pdftex.def Info: ./assets/simul.png  used on input line 99.
 (pdftex.def)             Requested size: 540.60239pt x 230.26598pt.
-<./pics/SA818.png, id=96, 438.63875pt x 286.06876pt>
+<./pics/SA818.png, id=90, 438.63875pt x 286.06876pt>
 File: ./pics/SA818.png Graphic file (type png)
 <use ./pics/SA818.png>
-Package pdftex.def Info: ./pics/SA818.png  used on input line 105.
+Package pdftex.def Info: ./pics/SA818.png  used on input line 111.
 (pdftex.def)             Requested size: 108.11882pt x 70.51305pt.
- [3 <./assets/CC1125.png> <./assets/Gali74.png> <./assets/3Drender.png> <./assets/schematic.png> <./assets/simul.png (PNG copy)>]
-<./pics/si.png, id=108, 874.26625pt x 578.16pt>
-File: ./pics/si.png Graphic file (type png)
-<use ./pics/si.png>
-Package pdftex.def Info: ./pics/si.png  used on input line 110.
-(pdftex.def)             Requested size: 108.11882pt x 71.49348pt.
-<assets/TiAntennaComparison.png, id=110, 918.43124pt x 822.07124pt>
+ [3 <./assets/3Drender.png> <./assets/schematic.png> <./assets/simul.png (PNG copy)> <./pics/SA818.png>]
+<assets/monovsdipole.png, id=102, 1219.55624pt x 279.0425pt>
+File: assets/monovsdipole.png Graphic file (type png)
+<use assets/monovsdipole.png>
+Package pdftex.def Info: assets/monovsdipole.png  used on input line 127.
+(pdftex.def)             Requested size: 270.3012pt x 61.84512pt.
+
+Overfull \hbox (51.7238pt too wide) in paragraph at lines 134--164
+ [][] 
+ []
+
+<assets/ground plane effect out of a randoms youtubers video.png, id=106, 1315.91624pt x 638.385pt>
+File: assets/ground plane effect out of a randoms youtubers video.png Graphic file (type png)
+<use assets/ground plane effect out of a randoms youtubers video.png>
+Package pdftex.def Info: assets/ground plane effect out of a randoms youtubers video.png  used on input line 175.
+(pdftex.def)             Requested size: 216.23764pt x 104.90038pt.
+[4 <./assets/monovsdipole.png>]
+<assets/TiAntennaComparison.png, id=121, 918.43124pt x 822.07124pt>
 File: assets/TiAntennaComparison.png Graphic file (type png)
 <use assets/TiAntennaComparison.png>
-Package pdftex.def Info: assets/TiAntennaComparison.png  used on input line 135.
-(pdftex.def)             Requested size: 324.36473pt x 290.33835pt.
-<assets/commertialSolution.png, id=111, 1003.75pt x 1003.75pt>
+Package pdftex.def Info: assets/TiAntennaComparison.png  used on input line 186.
+(pdftex.def)             Requested size: 270.3012pt x 241.94444pt.
+<assets/commertialSolution.png, id=122, 1003.75pt x 1003.75pt>
 File: assets/commertialSolution.png Graphic file (type png)
 <use assets/commertialSolution.png>
-Package pdftex.def Info: assets/commertialSolution.png  used on input line 145.
+Package pdftex.def Info: assets/commertialSolution.png  used on input line 196.
 (pdftex.def)             Requested size: 164.34584pt x 164.34038pt.
-<./pics//spring.png, id=114, 705.63625pt x 475.7775pt>
+<./pics//spring.png, id=125, 705.63625pt x 475.7775pt>
 File: ./pics//spring.png Graphic file (type png)
 <use ./pics//spring.png>
-Package pdftex.def Info: ./pics//spring.png  used on input line 151.
+Package pdftex.def Info: ./pics//spring.png  used on input line 202.
 (pdftex.def)             Requested size: 205.43153pt x 138.50916pt.
- [4 <./pics/SA818.png> <./pics/si.png> <./assets/TiAntennaComparison.png>]
-<./pics//fold.png, id=132, 1239.63126pt x 769.87625pt>
+<./pics//fold.png, id=126, 1239.63126pt x 769.87625pt>
 File: ./pics//fold.png Graphic file (type png)
 <use ./pics//fold.png>
-Package pdftex.def Info: ./pics//fold.png  used on input line 159.
+Package pdftex.def Info: ./pics//fold.png  used on input line 210.
 (pdftex.def)             Requested size: 205.43153pt x 127.57622pt.
-<./pics//spring.jpg, id=135, 5141.2075pt x 2416.02625pt>
+<./pics//spring.jpg, id=129, 5141.2075pt x 2416.02625pt>
 File: ./pics//spring.jpg Graphic file (type jpg)
 <use ./pics//spring.jpg>
-Package pdftex.def Info: ./pics//spring.jpg  used on input line 165.
+Package pdftex.def Info: ./pics//spring.jpg  used on input line 216.
 (pdftex.def)             Requested size: 205.43153pt x 96.51399pt.
-<assets/smdantenna.png, id=138, 610.28pt x 489.83pt>
+ [5 <./assets/ground plane effect out of a randoms youtubers video.png> <./assets/TiAntennaComparison.png> <./assets/commertialSolution.png> <./pics//spring.png>]
+<assets/smdantenna.png, id=147, 610.28pt x 489.83pt>
 File: assets/smdantenna.png Graphic file (type png)
 <use assets/smdantenna.png>
-Package pdftex.def Info: assets/smdantenna.png  used on input line 174.
+Package pdftex.def Info: assets/smdantenna.png  used on input line 225.
 (pdftex.def)             Requested size: 108.11882pt x 86.77539pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 206.
+Package hyperref Warning: Suppressing link with empty target on input line 261.
 
-[5 <./assets/commertialSolution.png> <./pics//spring.png> <./pics//fold.png> <./pics//spring.jpg> <./assets/smdantenna.png>] [6] (./overview.aux)
+[6 <./pics//fold.png> <./pics//spring.jpg> <./assets/smdantenna.png>] (./overview.aux)
 Package rerunfilecheck Info: File `overview.out' has not changed.
-(rerunfilecheck)             Checksum: F688773509DB57E88768094DC6F6BDF1;1319.
+(rerunfilecheck)             Checksum: 11F1548DBFD05E591B48948BEB9FFF21;1231.
  ) 
 Here is how much of TeX's memory you used:
- 36878 strings out of 477136
- 827434 string characters out of 5813392
- 1864388 words of memory out of 6000000
- 56506 multiletter control sequences out of 15000+600000
- 525125 words of font info for 63 fonts, out of 8000000 for 9000
+ 36884 strings out of 477136
+ 827867 string characters out of 5813392
+ 1869388 words of memory out of 6000000
+ 56512 multiletter control sequences out of 15000+600000
+ 525811 words of font info for 64 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  89i,11n,83p,1197b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on overview.pdf (6 pages, 4103756 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on overview.pdf (6 pages, 5424038 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
+ 226 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
  35 named destinations out of 1000 (max. 500000)
- 184 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
 

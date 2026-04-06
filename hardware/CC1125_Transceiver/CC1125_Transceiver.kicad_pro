@@ -480,6 +480,21 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "50R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgb(129, 127, 0)",
+        "wire_width": 6
+      },
+      {
+        "name": "80R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(129, 127, 0)"
       }
     ],
     "meta": {
@@ -487,9 +502,34 @@
     },
     "net_colors": {
       "+3V3": "rgb(255, 231, 23)",
-      "GND": "rgb(249, 229, 255)"
+      "GND": "rgb(255, 111, 235)"
     },
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/Anten": [
+        "50R"
+      ],
+      "/Filt1": [
+        "50R"
+      ],
+      "/LNA_UB": [
+        "50R"
+      ],
+      "/PA1": [
+        "80R"
+      ],
+      "/PA2": [
+        "50R"
+      ],
+      "/Rx{slash}Tx": [
+        "50R"
+      ],
+      "GND": [
+        "50R"
+      ],
+      "Net-(C6-Pad1)": [
+        "50R"
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
