@@ -2,9 +2,9 @@
   "last_sch_text_sim_command": "",
   "tabs": [
     {
-      "analysis": "AC",
+      "analysis": "SP",
       "commands": [
-        ".ac dec 1000 100Meg 1G",
+        ".sp dec 1000 100Meg 1G 1",
         ".kicad adjustpaths",
         ".save all",
         ".probe alli",
@@ -12,8 +12,8 @@
       ],
       "dottedSecondary": true,
       "legend": {
-        "x": 0,
-        "y": 0
+        "x": 1006,
+        "y": 80
       },
       "margins": {
         "bottom": 45,
@@ -25,14 +25,23 @@
       "showGrid": true,
       "traces": [
         {
-          "color": "rgb(77, 175, 74)",
-          "signal": "V(/LNA_N) (gain)",
-          "trace_type": 521
+          "color": "rgb(228, 26, 28)",
+          "signal": "S_1_1",
+          "trace_type": 544
         },
         {
-          "color": "rgb(152, 78, 163)",
-          "signal": "V(/LNA_P) (gain)",
-          "trace_type": 521
+          "color": "rgb(55, 126, 184)",
+          "cursor1": {
+            "position": 195799620.93918028,
+            "x_format": "3~Hz",
+            "y_format": "3~"
+          },
+          "cursorD": {
+            "x_format": "3~s",
+            "y_format": "3~V"
+          },
+          "signal": "S_1_2",
+          "trace_type": 544
         }
       ]
     }

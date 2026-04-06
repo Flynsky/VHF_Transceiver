@@ -1,4 +1,4 @@
-27329263783597913
+27347018976700279
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -108234,6 +108234,34 @@ Varistor VF
 2
 2
 libary
+434133025816
+434133025816-1
+Switch
+0
+4
+3
+libary
+ABM8W480000MHZ6D1XT3
+ABM8W
+Crystal or Oscillator
+0
+4
+3
+libary
+BGA6C40P2X3_88X123X62
+WCSP
+Power Supply
+0
+6
+6
+libary
+ECSTXO32CSMV400BNTR
+3.2 x 1.0 x 2.5mm
+Crystal or Oscillator
+0
+4
+4
+libary
 GVA63
 DF782 
 Integrated Circuit
@@ -108246,6 +108274,13 @@ Seamless Shielding Cabinet for High Frequency Applications, body 28.8x19.4x5mm, 
 SMT
 0
 2
+1
+libary
+H_Wurth_WE-SHC-SEAMLESS-FRAME_3670290
+Seamless Shielding Cabinet for High Frequency Applications, body 29x26x3mm, https://www.we-online.com/en/components/products/datasheet/3670290?ki
+SMT
+0
+4
 1
 libary
 QFN50P500X500X100-33N-D
@@ -108262,9 +108297,44 @@ Integrated Circuit
 13
 13
 libary
+SON65P200X200X80-7N
+WSON-200X200-6
+Integrated Circuit
+0
+7
+7
+libary
+SOT95P280X110-6N
+DDC0006A
+Integrated Circuit
+0
+6
+6
+libary
+SOT95P280X145-6N
+DBV0006A SOT-23
+Integrated Circuit
+0
+6
+6
+libary
+USB421603A
+USB4216-03-A-3
+Connector
+0
+16
+13
+libary
 VHF_UHF_Module_generic
 
 
 0
 20
 20
+libary
+WE-TPC_282892
+WE-TPC_282892
+Inductor
+0
+2
+2

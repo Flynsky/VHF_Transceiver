@@ -401,7 +401,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libary/3D/DRA818V.step"
+	(model "${KIPRJMOD}/libary/misc/3D/DRA818V.step"
 		(offset
 			(xyz 0 0 0)
 		)
