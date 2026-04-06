@@ -1,0 +1,234 @@
+(footprint "ABM8W480000MHZ6D1XT3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "ABM8W")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "Y**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "77958442-dc33-40ac-8a84-301d2de3df75")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "ABM8W480000MHZ6D1XT3"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c1218d74-3dc3-4d2f-b48d-bd4e2ba4f374")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5adb8b4-4ce3-4337-8a7e-994daf69ee73")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5149a89a-d247-4a06-952b-a5041296189f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.6 -0.413)
+		(end -1.6 -0.212)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8a1d9eec-ac41-4f99-bad0-5e245957d108")
+	)
+	(fp_line
+		(start -1.3 1.588)
+		(end -1.3 1.588)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "422c7e56-a06e-4451-9ab0-87621f1b24ae")
+	)
+	(fp_line
+		(start -0.2 -1.562)
+		(end 0.2 -1.562)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "37cf108c-924e-4fc8-9072-783b4bec1ec0")
+	)
+	(fp_line
+		(start -0.2 0.938)
+		(end 0.2 0.938)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "db7b77b2-7c60-4a15-baf9-a07d5094af6a")
+	)
+	(fp_line
+		(start 1.6 -0.413)
+		(end 1.6 -0.212)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e330b653-043e-49ac-b648-c7aef0fd78df")
+	)
+	(fp_line
+		(start -2 -2)
+		(end 2 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "046043ec-953a-48bc-a847-fbdb3f1cf12d")
+	)
+	(fp_line
+		(start -2 1.5)
+		(end -2 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "59406b1a-7356-44a5-b160-f281009ff099")
+	)
+	(fp_line
+		(start 2 -2)
+		(end 2 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "30f0ce9d-93be-4bac-94f9-3bf7df22c13a")
+	)
+	(fp_line
+		(start 2 1.5)
+		(end -2 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8520280d-c911-4f97-9825-e9e6b7129637")
+	)
+	(fp_line
+		(start -1.6 -1.562)
+		(end 1.6 -1.562)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4b770d4a-31d5-4589-a5a0-db693b2fcbc4")
+	)
+	(fp_line
+		(start -1.6 0.938)
+		(end -1.6 -1.562)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "67f3bcd1-f59d-41f6-b9d8-d3f815765087")
+	)
+	(fp_line
+		(start 1.6 -1.562)
+		(end 1.6 0.938)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "36ea3097-4713-4ff5-918e-b7d72677763c")
+	)
+	(fp_line
+		(start 1.6 0.938)
+		(end -1.6 0.938)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dcfce59b-b7e4-4285-bb3d-86aaa8927089")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "c27c1584-3304-4ba2-818e-5804dc66789d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.1 0.488 90)
+		(size 1.15 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8a1dde3b-b8ca-4073-8e0f-40483c5825d7")
+	)
+	(pad "2" smd rect
+		(at -1.1 -1.113 90)
+		(size 1.15 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7d3af414-1001-4eb1-a5cf-363b24022075")
+	)
+	(pad "2" smd rect
+		(at 1.1 0.488 90)
+		(size 1.15 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0e50d989-03b0-475c-b917-7380419c38f9")
+	)
+	(pad "3" smd rect
+		(at 1.1 -1.113 90)
+		(size 1.15 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0863a43c-e869-40cb-bdbe-816de8f6ae4c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/libary/misc/3D/ABM8W-40.0000MHZ-4-B1U-T3.stp"
+		(offset
+			(xyz 0 0.3 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
