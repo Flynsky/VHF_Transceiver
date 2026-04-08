@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1775504979.12496 "overview.tex" "overview.pdf" "overview" 1775504980.81326 0
+["pdflatex"] 1775628850.70963 "overview.tex" "overview.pdf" "overview" 1775628852.49873 0
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -243,15 +243,16 @@
   "assets/RequireGroundstation.png" 1775037755.81604 240181 5c58f094e41cebee4c940f233011dabd ""
   "assets/TiAntennaComparison.png" 1775249613.53007 111507 9f4cadc802544db90caf8ed09c44deec ""
   "assets/commertialSolution.png" 1775240428.69252 502719 2c7546fe14416886cd2c181c08b36deb ""
+  "assets/copper_measer.png" 1775628802.39087 102959 8dd515fa2e5048397c0629c9db9ff5bf ""
   "assets/ground plane effect out of a randoms youtubers video.png" 1775490417.46071 996750 22df9b9d616fda1449f2642b6b2e12ed ""
   "assets/monovsdipole.png" 1775486828.85923 172448 feb9617a89549dc684c044bd05bbaa9b ""
   "assets/schematic.png" 1775221684.38227 29369 e30a83153c981b69cfb2da6405d88a66 ""
   "assets/simul.png" 1775340542.17074 386345 86f8648825867f4886d860b1996632b8 ""
   "assets/smdantenna.png" 1775249880.05143 158828 2d66d70abc2bb42b576d10087046b78c ""
-  "overview.aux" 1775504980.68427 5523 349fc580bedc03998e0cb52084d7d0f3 "pdflatex"
-  "overview.out" 1775504980.68534 1231 11f1548dbfd05e591b48948beb9fff21 "pdflatex"
-  "overview.tex" 1775504976.61529 11746 3c0d0ab38f3d561af24bd36ae3280fc4 ""
-  "overview.toc" 1775504980.68534 1241 645b5e1ee558d3efb3009d9c3180c11a "pdflatex"
+  "overview.aux" 1775628852.3594 6016 79b8202ad212228b34d62f23090cd415 "pdflatex"
+  "overview.out" 1775628852.36139 1231 11f1548dbfd05e591b48948beb9fff21 "pdflatex"
+  "overview.tex" 1775628846.11933 12044 258c6182b0de0707128232b0111ea2f9 ""
+  "overview.toc" 1775628852.36139 1241 645b5e1ee558d3efb3009d9c3180c11a "pdflatex"
   "pics//fold.png" 1774974503.35469 181431 466a9d7130e067ce0353de776a1597d9 ""
   "pics//spring.jpg" 1774971810.6385 1796877 ffb185851848393a52949bd1ca810f46 ""
   "pics//spring.png" 1774971788.96099 119081 101346773f410aa8cd72d914e5b1d282 ""
